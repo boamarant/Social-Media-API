@@ -20,6 +20,6 @@ I referenced previous projects and examples from the Columbia University Coding 
 
 The application allows the creation, updating, and deleting of users, thoughts, and reactions, similar to a regular social media platform. There is also a feature for adding and removing friends. This application, in its current state, only contains backend functionality and needs to use a program like Insomnia or Postman for testing different routes. 
 
-## Screenshot of Deployed Application
+## Walkthrough Video of Application
 
 ![Walkthrough video of the Social Media API application. The video file is too large to directly include in the README, but it can be downloaded with this link. Select "View raw" after pressing the link to download.](assets/video/socialnetworkapivideo.mov)

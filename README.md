@@ -22,4 +22,4 @@ The application allows the creation, updating, and deleting of users, thoughts, 
 
 ## Screenshot of Deployed Application
 
-![Walkthrough video of the Social Media API application](assets/video/socialnetworkapivideo.mp4)
+![Walkthrough video of the Social Media API application](assets/video/socialnetworkapivideo.mov)
